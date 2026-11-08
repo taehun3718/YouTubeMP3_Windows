@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "SK8CiOAZr0A=",
+  "success": true,
+  "projectFilePath": "D:\\_git\\YouTubeMP3_Windows\\YouTubeMP3_Windows\\YouTubeMP3.Windows\\YouTubeMP3.Windows.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TaeHoonKim\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.31\\microsoft.net.illink.tasks.8.0.31.nupkg.sha512",
+    "C:\\Users\\TaeHoonKim\\.nuget\\packages\\microsoft.web.webview2\\1.0.2903.40\\microsoft.web.webview2.1.0.2903.40.nupkg.sha512",
+    "C:\\Users\\TaeHoonKim\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.31\\microsoft.netcore.app.runtime.win-x64.8.0.31.nupkg.sha512",
+    "C:\\Users\\TaeHoonKim\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.31\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.31.nupkg.sha512",
+    "C:\\Users\\TaeHoonKim\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.31\\microsoft.aspnetcore.app.runtime.win-x64.8.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
